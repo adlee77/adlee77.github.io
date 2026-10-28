@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "VK2398WTKB.com.onlyon.onlyon",
+        "paths": ["/stage/*", "/u/*", "/s/*"]
+      },
+      {
+        "appID": "VK2398WTKB.com.onlyon.onlyon.dev",
+        "paths": ["/stage/*", "/u/*", "/s/*"]
+      }
+    ]
+  }
+}
